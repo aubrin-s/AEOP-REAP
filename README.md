@@ -2,7 +2,7 @@
 
 In this internship, we learned how to use the computer programming language Python in Google Collab, starting with the libraries Numpy, Pandas, Matplotlib and PIL, with the objective of getting experience in Machine Learning and data processing.
 
-In the excersises folder, we practiced these libraries and machine learning with the instruction of the following videos:
+## In the excersises folder, we practiced these libraries and machine learning with the instruction of the following videos:
 
 ### Numpy
 
@@ -29,11 +29,12 @@ https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YR
 https://www.youtube.com/watch?v=tPYj3fFJGjk&t=23530s
 
 ### Deep Learning
+
 Stanford cs231n lectures 
 https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
 
-In the challenges folder, we applied what we learned to paricipate in the following Kaggle challenges:
+## In the challenges folder, we applied what we learned to paricipate in the following Kaggle challenges:
 
 ### Titanic 
 
