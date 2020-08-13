@@ -8,32 +8,41 @@ In the excersises folder, we practiced these libraries and machine learning with
 
 https://www.hackerrank.com/domains/python/numpy/page/1
 
-
 ### Matplotlib
 
 https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
-
 
 ### Pandas
 
 https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS
 
-
-### PIL
+### Pillow
 
 https://www.youtube.com/watch?v=6Qs3wObeWwc
 
-###
+### Machine Learning
+
+https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+### TensorFlow
+
+https://www.youtube.com/watch?v=tPYj3fFJGjk&t=23530s
+
+### Deep Learning
+Stanford cs231n lectures 
+https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 
 
-In the challenges folder, we applies what we learned to paricipate in the following challenges:
+In the challenges folder, we applied what we learned to paricipate in the following Kaggle challenges:
 
 ### Titanic 
 
+https://www.kaggle.com/c/titanic
 
 ### HousePrices
 
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 ### Digit Recognizer
 
-
+https://www.kaggle.com/c/digit-recognizer
