@@ -30,8 +30,7 @@ https://www.youtube.com/watch?v=tPYj3fFJGjk&t=23530s
 
 ### Deep Learning
 
-Stanford cs231n lectures 
-https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv (Stanford's cs231n 2017 lectures)
 
 
 ## In the challenges folder, we applied what we learned to paricipate in the following Kaggle challenges:
