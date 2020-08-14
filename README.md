@@ -1,4 +1,5 @@
 # AEOP-REAP
+Army Educational Outreach Program - Reasearch and Enginering Apprenticeship Program
 
 In this internship, we learned how to use the computer programming language Python in Google Collab, starting with the libraries Numpy, Pandas, Matplotlib and PIL, with the objective of getting experience in Machine Learning and data processing.
 
@@ -13,20 +14,28 @@ https://www.hackerrank.com/domains/python/numpy/page/1
 ```
 
 ### Matplotlib
-* 
-
+* Bar/Pie charts and stack/scatter/line plots 
+* customzation and different stlyes
+* real life data and csvs
 ```
 https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
 ```
 ### Pandas
+* worked with dataframes: cleaning, sorting, removing nan values
+* real life data and csvs
 ```
 https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS
 ```
 ### Pillow
+* image editing: crop, rotate, resize and apply filters 
+```
+https://www.youtube.com/watch?v=dkrXgzuZk3k&list=RDCMUCVeW9qkBjo3zosnqUbG7CFw&start_radio=1&t=1
+```
 ```
 https://www.youtube.com/watch?v=6Qs3wObeWwc
 ```
 ### Machine Learning
+
 ```
 https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
 ```
