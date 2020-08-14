@@ -35,15 +35,15 @@ https://www.youtube.com/watch?v=dkrXgzuZk3k&list=RDCMUCVeW9qkBjo3zosnqUbG7CFw&st
 https://www.youtube.com/watch?v=6Qs3wObeWwc
 ```
 ### Machine Learning
-
+* Classifying and making predictions for data using:Linear Regression, Support Vector Machines, K Nearest Neighbors, and Clustering 
 ```
 https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
 ```
-### TensorFlow
+### Deep learning with TensorFlow
+
 ```
 https://www.youtube.com/watch?v=tPYj3fFJGjk&t=23530s
 ```
-### Deep Learning
 ```
 https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv (Stanford's cs231n 2017 lectures)
 ```
