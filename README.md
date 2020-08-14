@@ -5,8 +5,11 @@ In this internship, we learned how to use the computer programming language Pyth
 ## In the excersises folder, we practiced these libraries and machine learning with the instruction of the following videos:
 
 ### Numpy
+
 ' ' '
+
 https://www.hackerrank.com/domains/python/numpy/page/1
+
 ' ' '
 ### Matplotlib
 
