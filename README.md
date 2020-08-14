@@ -53,14 +53,20 @@ https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8
 ## In the challenges folder, we applied what we learned to paricipate in the following Kaggle challenges:
 
 ### Titanic 
+* using sklearn classifiers to predict whether a passenger survived or not based on related data
+* creating accuracy, precision, and recall functions to check the model
 ```
 https://www.kaggle.com/c/titanic
 ```
 ### HousePrices
+* using svm, k nearest neighbors and other classifiers to predict the price of a house based on its features 
+* cleaning out unrelated data and converting non numerical data to improve accuracy
+* creating mean absolute error, mean squared error, median absolute error and r2 score functions to check the model
 ```
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 ```
 ### Digit Recognizer
+* using deeplearning algorithms to recognize images and classify them as the numbers the depict 
 ```
 https://www.kaggle.com/c/digit-recognizer
 ```
