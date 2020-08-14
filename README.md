@@ -40,7 +40,9 @@ https://www.youtube.com/watch?v=6Qs3wObeWwc
 https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
 ```
 ### Deep learning with TensorFlow
-
+* using neural networks 
+* creating/optimizing a prediction model 
+* image classification and object detection
 ```
 https://www.youtube.com/watch?v=tPYj3fFJGjk&t=23530s
 ```
