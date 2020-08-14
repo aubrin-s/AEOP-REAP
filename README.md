@@ -6,11 +6,10 @@ In this internship, we learned how to use the computer programming language Pyth
 
 ### Numpy
 
-` ` `
-
+```
 https://www.hackerrank.com/domains/python/numpy/page/1
+```
 
-` ` `
 ### Matplotlib
 
 https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
